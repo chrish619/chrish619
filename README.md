@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+* 🐘 I'm on Mastodon! <a rel="me" href="https://mastodon.scot/@chrish619">chrish619@mastodon.scot</a>
+
 <!--
 **chrish619/chrish619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
