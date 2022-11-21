@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 I'm on Twitter! <a href="https://twitter.com/chrish619">https://twitter.com/chrish619</a>
-- 📫 I'm on Mastodon! <a href="https://mastodon.scot/@chrish619" rel="me">https://mastodon.scot/@chrish619</a>
+- 📫 I'm on Mastodon! <a href="https://mastodon.scot/@chrish619" rel="nofollow me">https://mastodon.scot/@chrish619</a>
 - 😄 Pronouns: He/Him
 <!--
 **chrish619/chrish619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
